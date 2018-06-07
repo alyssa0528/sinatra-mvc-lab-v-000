@@ -13,7 +13,4 @@ class App < Sinatra::Base
     erb :results
   end
 
-  #post '/piglatinize' do
-  #  erb :results
-  #end
 end
